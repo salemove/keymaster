@@ -1,3 +1,13 @@
+> [!WARNING]
+> **⚠️ DEPRECATED — this repository is no longer maintained.**
+>
+> This fork of [madrobby/keymaster](https://github.com/madrobby/keymaster) (upstream
+> abandoned since 2018) existed for a single consumer, glia-hub, which has vendored
+> the library into its own source tree
+> ([salemove/glia-hub#11388](https://github.com/salemove/glia-hub/pull/11388),
+> [BROW-2630](https://glia.atlassian.net/browse/BROW-2630)).
+> It has zero consumers and will be archived. Do not add new dependencies on it.
+
 # keymaster.js
 
 Keymaster is a simple micro-library for defining and
